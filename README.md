@@ -26,7 +26,9 @@ Folgende Packages werden benötigt:
 - `colorama`
 
 Mit dem folgenden Befehl können die Abhängigkeiten installiert werden:
-> `pip install -r requirements.txt`
+```console
+pip install -r requirements.txt
+```
 
 ### Beispiele
 
